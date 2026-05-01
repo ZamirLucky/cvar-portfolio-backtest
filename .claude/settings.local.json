@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install nbconvert --quiet)",
+      "PowerShell(python -m jupyter nbconvert --version 2>&1)",
+      "PowerShell(head -2)"
+    ]
+  }
+}
