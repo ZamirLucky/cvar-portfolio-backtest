@@ -1,0 +1,19 @@
+# Data and finance
+pandas>=2.1
+numpy>=1.26
+yfinance>=0.2.36
+
+# Optimisation
+scipy>=1.12
+cvxpy>=1.4
+
+# Visualisation
+matplotlib>=3.8
+seaborn>=0.13
+
+# Jupyter notebook support
+jupyter>=1.0
+ipykernel>=6.28
+
+# Testing
+pytest>=8.0
