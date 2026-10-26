@@ -221,5 +221,8 @@ __marimo__/
 .vscode/*
 !.vscode/settings.json
 
+# Claude
+.claude/
+
 # text file
 *text.txt
